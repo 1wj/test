@@ -1,0 +1,30 @@
+﻿生成启动时间为 2020/10/9 13:59:44。
+     1>项目“C:\Users\Wj\Documents\Visual Studio 2010\Projects\106\106\106.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\106.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\c\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt 6.c
+         6.c
+     1>c:\users\wj\documents\visual studio 2010\projects\106\106\6.c(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\c\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\wj\documents\visual studio 2010\projects\106\106\6.c(40): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>c:\users\wj\documents\visual studio 2010\projects\106\106\6.c(41): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>c:\users\wj\documents\visual studio 2010\projects\106\106\6.c(42): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>c:\users\wj\documents\visual studio 2010\projects\106\106\6.c(43): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>c:\users\wj\documents\visual studio 2010\projects\106\106\6.c(44): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>c:\users\wj\documents\visual studio 2010\projects\106\106\6.c(45): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>c:\users\wj\documents\visual studio 2010\projects\106\106\6.c(46): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>c:\users\wj\documents\visual studio 2010\projects\106\106\6.c(79): error C2065: “insertpower”: 未声明的标识符
+     1>c:\users\wj\documents\visual studio 2010\projects\106\106\6.c(80): error C2065: “powers”: 未声明的标识符
+     1>c:\users\wj\documents\visual studio 2010\projects\106\106\6.c(80): error C2065: “count”: 未声明的标识符
+     1>c:\users\wj\documents\visual studio 2010\projects\106\106\6.c(80): error C2109: 下标要求数组或指针类型
+     1>c:\users\wj\documents\visual studio 2010\projects\106\106\6.c(80): error C2065: “insertpower”: 未声明的标识符
+     1>c:\users\wj\documents\visual studio 2010\projects\106\106\6.c(81): error C2065: “count”: 未声明的标识符
+     1>c:\users\wj\documents\visual studio 2010\projects\106\106\6.c(82): error C2065: “count”: 未声明的标识符
+     1>c:\users\wj\documents\visual studio 2010\projects\106\106\6.c(84): error C2065: “powers”: 未声明的标识符
+     1>c:\users\wj\documents\visual studio 2010\projects\106\106\6.c(84): error C2109: 下标要求数组或指针类型
+     1>已完成生成项目“C:\Users\Wj\Documents\Visual Studio 2010\Projects\106\106\106.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.16

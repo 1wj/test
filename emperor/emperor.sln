@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "emperor", "emperor\emperor.vcxproj", "{74B6E02E-8D3D-426F-96F1-557829E63E35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74B6E02E-8D3D-426F-96F1-557829E63E35}.Debug|Win32.ActiveCfg = Debug|Win32
+		{74B6E02E-8D3D-426F-96F1-557829E63E35}.Debug|Win32.Build.0 = Debug|Win32
+		{74B6E02E-8D3D-426F-96F1-557829E63E35}.Release|Win32.ActiveCfg = Release|Win32
+		{74B6E02E-8D3D-426F-96F1-557829E63E35}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

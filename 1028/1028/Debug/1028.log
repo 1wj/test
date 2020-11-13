@@ -1,0 +1,39 @@
+﻿生成启动时间为 2020/10/28 16:41:58。
+     1>项目“C:\Users\Wj\documents\visual studio 2010\Projects\1028\1028\1028.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\1028.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\c\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt 28.c
+         28.c
+     1>c:\users\wj\documents\visual studio 2010\projects\1028\1028\28.c(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\c\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\wj\documents\visual studio 2010\projects\1028\1028\28.c(20): warning C4047: “函数”:“int”与“int [4]”的间接级别不同
+     1>c:\users\wj\documents\visual studio 2010\projects\1028\1028\28.c(20): warning C4024: “bj1”: 形参和实参 1 的类型不同
+     1>c:\users\wj\documents\visual studio 2010\projects\1028\1028\28.c(21): warning C4047: “函数”:“int”与“int [4]”的间接级别不同
+     1>c:\users\wj\documents\visual studio 2010\projects\1028\1028\28.c(21): warning C4024: “bj2”: 形参和实参 1 的类型不同
+     1>c:\users\wj\documents\visual studio 2010\projects\1028\1028\28.c(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\c\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\wj\documents\visual studio 2010\projects\1028\1028\28.c(26): warning C4047: “函数”:“int”与“int [4]”的间接级别不同
+     1>c:\users\wj\documents\visual studio 2010\projects\1028\1028\28.c(26): warning C4024: “paim”: 形参和实参 1 的类型不同
+     1>c:\users\wj\documents\visual studio 2010\projects\1028\1028\28.c(30): warning C4028: 形参 1 与声明不同
+     1>c:\users\wj\documents\visual studio 2010\projects\1028\1028\28.c(42): warning C4028: 形参 1 与声明不同
+     1>c:\users\wj\documents\visual studio 2010\projects\1028\1028\28.c(54): warning C4028: 形参 1 与声明不同
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\c\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Wj\documents\visual studio 2010\Projects\1028\Debug\1028.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\1028.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Wj\documents\visual studio 2010\Projects\1028\Debug\1028.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Wj\documents\visual studio 2010\Projects\1028\Debug\1028.lib" /MACHINE:X86 Debug\1028.exe.embed.manifest.res
+         Debug\28.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\1028.exe.embed.manifest" /manifest Debug\1028.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         1028.vcxproj -> C:\Users\Wj\documents\visual studio 2010\Projects\1028\Debug\1028.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\1028.unsuccessfulbuild”。
+         正在对“Debug\1028.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Wj\documents\visual studio 2010\Projects\1028\1028\1028.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.51
